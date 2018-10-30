@@ -13,7 +13,7 @@ import java.util.Map;
  * Created by NullPointer on 2018/10/29.
  */
 @RestController
-@RequestMapping("/superadmin")
+@RequestMapping("/area")
 public class AreaController {
 
     @Autowired

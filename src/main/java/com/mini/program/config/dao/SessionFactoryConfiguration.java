@@ -66,12 +66,6 @@ public class SessionFactoryConfiguration {
     }
 
 
-
-
-
-
-//
-//
 //    @Value("${mybatis_config_file}")
 //    private  String mybatisConfigFilePath;
 //
